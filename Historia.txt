@@ -1,2 +1,5 @@
 Este es un archivo de Jose De Hoyos Gonzalez, nacio en cartagena colombia
 tiene 23 años y estudia analsisis de datos en platzi
+
+Le gusta jugar futbol, leer libros, hacer calistenia, correr, ver series,
+peliculas, ir al cine, comer y viajar.
